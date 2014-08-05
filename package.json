@@ -1,0 +1,16 @@
+{
+  "name": "befunge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": "ooflorent/befunge",
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^1.21.3",
+    "multiline": "^0.3.4"
+  }
+}
